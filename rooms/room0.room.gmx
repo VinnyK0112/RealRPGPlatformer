@@ -56,7 +56,7 @@
     <instance objName="moPlayer" x="128" y="416" name="inst_FE4EAE8C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moSpring" x="416" y="416" name="inst_380949C3" locked="0" code="jp = -10&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moSpring" x="480" y="352" name="inst_584EA737" locked="0" code="jp = -20" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="TestObject" x="160" y="160" name="inst_C8C15711" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moTestObject" x="160" y="160" name="inst_C8C15711" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="voGround" x="96" y="32" name="inst_6D1BFD91" locked="0" code="" scaleX="1" scaleY="5" colour="4294967295" rotation="0"/>
     <instance objName="voGround" x="96" y="192" name="inst_8B17CCD4" locked="0" code="" scaleX="26" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="voGround" x="896" y="32" name="inst_25A37750" locked="0" code="" scaleX="1" scaleY="5" colour="4294967295" rotation="0"/>

@@ -20,7 +20,7 @@
     <object>objects\voGround</object>
     <object>objects\moPlayer</object>
     <object>objects\moSpring</object>
-    <object>objects\TestObject</object>
+    <object>objects\moTestObject</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
