@@ -11,12 +11,16 @@
     <sprite>sprites\msPlayerMove</sprite>
     <sprite>sprites\msPlayerJump</sprite>
     <sprite>sprites\msPlayerFall</sprite>
+    <sprite>sprites\msSpring</sprite>
+    <sprite>sprites\msDrill</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\voGround</object>
     <object>objects\moPlayer</object>
+    <object>objects\moSpring</object>
+    <object>objects\TestObject</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
