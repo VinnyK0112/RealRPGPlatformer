@@ -8,12 +8,19 @@
   <sprites name="sprites">
     <sprite>sprites\vsGround</sprite>
     <sprite>sprites\msPlayerIdle</sprite>
+    <sprite>sprites\msPlayerMove</sprite>
+    <sprite>sprites\msPlayerJump</sprite>
+    <sprite>sprites\msPlayerFall</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\voGround</object>
+    <object>objects\moPlayer</object>
   </objects>
+  <rooms name="rooms">
+    <room>rooms\room0</room>
+  </rooms>
   <help>
     <rtf>help.rtf</rtf>
   </help>
