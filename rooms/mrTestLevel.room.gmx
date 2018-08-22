@@ -74,6 +74,7 @@
     <instance objName="voGround" x="1280" y="256" name="inst_2AF44AAD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="voGround" x="1312" y="256" name="inst_092CA29D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="voGround" x="1312" y="224" name="inst_EA07774B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moFan" x="1280" y="96" name="inst_AC4982DB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

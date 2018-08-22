@@ -19,6 +19,7 @@
     <sprite>sprites\msSwordhands</sprite>
     <sprite>sprites\msDummy</sprite>
     <sprite>sprites\msRoboDude</sprite>
+    <sprite>sprites\msFan</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -33,6 +34,7 @@
     <object>objects\moDebugMusic</object>
     <object>objects\moRoboDude</object>
     <object>objects\moTestHandGiver</object>
+    <object>objects\moFan</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\mrTestLevel</room>
