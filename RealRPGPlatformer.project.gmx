@@ -13,6 +13,7 @@
     <sprite>sprites\msPlayerFall</sprite>
     <sprite>sprites\msSpring</sprite>
     <sprite>sprites\msDrill</sprite>
+    <sprite>sprites\jsEatDust</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
