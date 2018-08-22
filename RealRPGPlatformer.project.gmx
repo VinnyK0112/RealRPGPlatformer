@@ -14,6 +14,8 @@
     <sprite>sprites\msSpring</sprite>
     <sprite>sprites\msDrill</sprite>
     <sprite>sprites\jsEatDust</sprite>
+    <sprite>sprites\msSwordhands</sprite>
+    <sprite>sprites\msDummy</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -22,6 +24,9 @@
     <object>objects\moPlayer</object>
     <object>objects\moSpring</object>
     <object>objects\moTestObject</object>
+    <object>objects\moSwordHands</object>
+    <object>objects\moDummy</object>
+    <object>objects\momask</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
