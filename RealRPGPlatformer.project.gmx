@@ -4,7 +4,9 @@
     <Config>Configs\Default</Config>
   </Configs>
   <NewExtensions/>
-  <sounds name="sound"/>
+  <sounds name="sound">
+    <sound>sound\mmBoss1</sound>
+  </sounds>
   <sprites name="sprites">
     <sprite>sprites\vsGround</sprite>
     <sprite>sprites\msPlayerIdle</sprite>
@@ -16,6 +18,8 @@
     <sprite>sprites\jsEatDust</sprite>
     <sprite>sprites\msSwordhands</sprite>
     <sprite>sprites\msDummy</sprite>
+    <sprite>sprites\msRoboDude</sprite>
+    <sprite>sprites\msFan</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -27,9 +31,14 @@
     <object>objects\moSwordHands</object>
     <object>objects\moDummy</object>
     <object>objects\momask</object>
+    <object>objects\moDebugMusic</object>
+    <object>objects\moRoboDude</object>
+    <object>objects\moTestHandGiver</object>
+    <object>objects\moFan</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\room0</room>
+    <room>rooms\mrTestLevel</room>
+    <room>rooms\mrDebugRoom</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
