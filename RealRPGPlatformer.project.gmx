@@ -14,6 +14,9 @@
     <sprite>sprites\msPlayerJump</sprite>
     <sprite>sprites\msPlayerFall</sprite>
     <sprite>sprites\msSpring</sprite>
+    <sprite>sprites\msSmallSpring</sprite>
+    <sprite>sprites\msPressureSpring</sprite>
+    <sprite>sprites\msSmallPressureSpring</sprite>
     <sprite>sprites\msDrill</sprite>
     <sprite>sprites\jsEatDust</sprite>
     <sprite>sprites\msSwordhands</sprite>
@@ -22,6 +25,7 @@
     <sprite>sprites\msFan</sprite>
     <sprite>sprites\msFactoryBlock</sprite>
     <sprite>sprites\msFactoryTruss</sprite>
+    <sprite>sprites\msFactoryPlatform</sprite>
     <sprite>sprites\msFactoryFloor</sprite>
     <sprite>sprites\msFactoryWall</sprite>
     <sprite>sprites\msFactoryWall2</sprite>
@@ -29,6 +33,7 @@
     <sprite>sprites\msFactoryWall4</sprite>
     <sprite>sprites\msFactoryFloorEnd</sprite>
     <sprite>sprites\msFactoryFloorEnd2</sprite>
+    <sprite>sprites\msFactoryBGWall</sprite>
     <sprite>sprites\msFactoryPlant</sprite>
     <sprite>sprites\msFactoryTube</sprite>
     <sprite>sprites\msFactoryTubeSide</sprite>
@@ -40,6 +45,9 @@
     <object>objects\voGround</object>
     <object>objects\moPlayer</object>
     <object>objects\moSpring</object>
+    <object>objects\moSmallSpring</object>
+    <object>objects\moPressureSpring</object>
+    <object>objects\moSmallPresureSpring</object>
     <object>objects\moTestObject</object>
     <object>objects\moSwordHands</object>
     <object>objects\moDummy</object>
@@ -59,8 +67,11 @@
     <object>objects\moGrassFactoryWall4</object>
     <object>objects\moGrassFactoryFloorEnd1</object>
     <object>objects\moGrassFactoryFloorEnd2</object>
+    <object>objects\moGrassFactoryWallBG</object>
     <object>objects\moGrassFactoryPlant</object>
     <object>objects\moSeedPackager</object>
+    <object>objects\moZoomTest</object>
+    <object>objects\moFactoryPlatform</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\mrTestLevel</room>
