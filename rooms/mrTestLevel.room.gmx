@@ -54,12 +54,10 @@
     <instance objName="moPlayer" x="128" y="416" name="inst_C1E81EE3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="voGround" x="0" y="0" name="inst_E6D691E1" locked="0" code="" scaleX="2" scaleY="18" colour="4294967295" rotation="0"/>
     <instance objName="voGround" x="64" y="448" name="inst_50DEDB54" locked="0" code="" scaleX="10" scaleY="4" colour="4294967295" rotation="0"/>
-    <instance objName="moTestHandGiver" x="480" y="320" name="inst_6F4A3F42" locked="0" code="" scaleX="0.393333345651627" scaleY="0.393333345651627" colour="4294967295" rotation="0"/>
+    <instance objName="moTestHandGiver" x="224" y="320" name="inst_6F4A3F42" locked="0" code="" scaleX="0.393333345651627" scaleY="0.393333345651627" colour="4294967295" rotation="0"/>
     <instance objName="voGround" x="384" y="384" name="inst_C77D71B1" locked="0" code="" scaleX="6" scaleY="6" colour="4294967295" rotation="0"/>
     <instance objName="voGround" x="576" y="512" name="inst_B33FC94A" locked="0" code="" scaleX="16" scaleY="2" colour="4294967295" rotation="0"/>
     <instance objName="moSpring" x="576" y="480" name="inst_81AD9CE0" locked="0" code="jp = -10&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moRoboDude" x="704" y="480" name="inst_12E2DADE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moRoboDude" x="800" y="480" name="inst_C085EE0A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="voGround" x="960" y="448" name="inst_D56CA9D8" locked="0" code="" scaleX="4" scaleY="2" colour="4294967295" rotation="0"/>
     <instance objName="voGround" x="1088" y="192" name="inst_3DD4A6C0" locked="0" code="" scaleX="6" scaleY="12" colour="4294967295" rotation="0"/>
     <instance objName="moSpring" x="1024" y="416" name="inst_FEE34094" locked="0" code="jp = -15&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -788,6 +786,21 @@
     <instance objName="moGrassFactoryTruss" x="4064" y="480" name="inst_DD1B1301" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGrassFactoryTruss" x="4064" y="448" name="inst_C4E6F19E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGrassFactoryPlant" x="3936" y="448" name="inst_0A37552C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moDummy" x="448" y="256" name="inst_D7D5E8BF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moDummy" x="448" y="320" name="inst_DDD85FEA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moDummy" x="384" y="320" name="inst_EEDBE97C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moDummy" x="512" y="320" name="inst_1D11FDDF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moDummy" x="512" y="256" name="inst_B9894047" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moDummy" x="512" y="192" name="inst_7586437B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moDummy" x="704" y="448" name="inst_07BE9914" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moDummy" x="704" y="384" name="inst_D0C998BF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moDummy" x="768" y="448" name="inst_C3F3586A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moDummy" x="768" y="384" name="inst_517F16A5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moDummy" x="832" y="448" name="inst_71CE6092" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moDummy" x="832" y="384" name="inst_E5DF82A9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moDummy" x="896" y="448" name="inst_3CC155F2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moDummy" x="768" y="320" name="inst_A1EBA560" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moDummy" x="640" y="448" name="inst_070396A8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

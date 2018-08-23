@@ -20,6 +20,7 @@
     <sprite>sprites\msDrill</sprite>
     <sprite>sprites\jsEatDust</sprite>
     <sprite>sprites\msSwordhands</sprite>
+    <sprite>sprites\msBoomerangHand</sprite>
     <sprite>sprites\msDummy</sprite>
     <sprite>sprites\msRoboDude</sprite>
     <sprite>sprites\msFan</sprite>
@@ -38,6 +39,7 @@
     <sprite>sprites\msFactoryTube</sprite>
     <sprite>sprites\msFactoryTubeSide</sprite>
     <sprite>sprites\msSeedPackager</sprite>
+    <sprite>sprites\msmask</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -50,6 +52,7 @@
     <object>objects\moSmallPresureSpring</object>
     <object>objects\moTestObject</object>
     <object>objects\moSwordHands</object>
+    <object>objects\moBoomerHand</object>
     <object>objects\moDummy</object>
     <object>objects\momask</object>
     <object>objects\moDebugMusic</object>
@@ -72,6 +75,7 @@
     <object>objects\moSeedPackager</object>
     <object>objects\moZoomTest</object>
     <object>objects\moFactoryPlatform</object>
+    <object>objects\moCollisionCheckerCode</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\mrTestLevel</room>
