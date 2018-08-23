@@ -62,7 +62,7 @@ mask_index = msSwordhands
 
 if image_index = 0 {
 image_speed = 0
-mask_index = momask }
+mask_index = msmask }
 
 image_xscale = moPlayer.image_xscale
 </string>
