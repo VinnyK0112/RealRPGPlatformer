@@ -20,6 +20,19 @@
     <sprite>sprites\msDummy</sprite>
     <sprite>sprites\msRoboDude</sprite>
     <sprite>sprites\msFan</sprite>
+    <sprite>sprites\msFactoryBlock</sprite>
+    <sprite>sprites\msFactoryTruss</sprite>
+    <sprite>sprites\msFactoryFloor</sprite>
+    <sprite>sprites\msFactoryWall</sprite>
+    <sprite>sprites\msFactoryWall2</sprite>
+    <sprite>sprites\msFactoryWall3</sprite>
+    <sprite>sprites\msFactoryWall4</sprite>
+    <sprite>sprites\msFactoryFloorEnd</sprite>
+    <sprite>sprites\msFactoryFloorEnd2</sprite>
+    <sprite>sprites\msFactoryPlant</sprite>
+    <sprite>sprites\msFactoryTube</sprite>
+    <sprite>sprites\msFactoryTubeSide</sprite>
+    <sprite>sprites\msSeedPackager</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -35,6 +48,19 @@
     <object>objects\moRoboDude</object>
     <object>objects\moTestHandGiver</object>
     <object>objects\moFan</object>
+    <object>objects\moFactoryBlock</object>
+    <object>objects\moGrassFactoryTruss</object>
+    <object>objects\moFactoryTube</object>
+    <object>objects\moFactoryTubeSide</object>
+    <object>objects\moGrassFactoryFloor</object>
+    <object>objects\moGrassFactoryWall</object>
+    <object>objects\moGrassFactoryWall2</object>
+    <object>objects\moGrassFactoryWall3</object>
+    <object>objects\moGrassFactoryWall4</object>
+    <object>objects\moGrassFactoryFloorEnd1</object>
+    <object>objects\moGrassFactoryFloorEnd2</object>
+    <object>objects\moGrassFactoryPlant</object>
+    <object>objects\moSeedPackager</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\mrTestLevel</room>
