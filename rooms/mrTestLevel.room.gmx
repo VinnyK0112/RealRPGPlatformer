@@ -199,8 +199,8 @@
     <instance objName="moFactoryBlock" x="2624" y="224" name="inst_84C5F488" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moFactoryBlock" x="2496" y="256" name="inst_839BBC43" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moFactoryBlock" x="2784" y="256" name="inst_F0E63BE4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moFactoryBlock" x="1632" y="256" name="inst_256B05EC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moFactoryBlock" x="1632" y="224" name="inst_2AFA8F40" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryTruss" x="2560" y="64" name="inst_C9C8B268" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryTruss" x="2592" y="32" name="inst_83227653" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
