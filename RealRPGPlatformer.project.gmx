@@ -21,11 +21,15 @@
     <sprite>sprites\msRoboDude</sprite>
     <sprite>sprites\msFan</sprite>
     <sprite>sprites\msFactoryBlock</sprite>
+    <sprite>sprites\msFactoryTruss</sprite>
     <sprite>sprites\msFactoryFloor</sprite>
     <sprite>sprites\msFactoryWall</sprite>
     <sprite>sprites\msFactoryWall2</sprite>
+    <sprite>sprites\msFactoryWall3</sprite>
+    <sprite>sprites\msFactoryWall4</sprite>
     <sprite>sprites\msFactoryFloorEnd</sprite>
     <sprite>sprites\msFactoryFloorEnd2</sprite>
+    <sprite>sprites\msFactoryPlant</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -42,11 +46,15 @@
     <object>objects\moTestHandGiver</object>
     <object>objects\moFan</object>
     <object>objects\moFactoryBlock</object>
+    <object>objects\moGrassFactoryTruss</object>
     <object>objects\moGrassFactoryFloor</object>
     <object>objects\moGrassFactoryWall</object>
     <object>objects\moGrassFactoryWall2</object>
+    <object>objects\moGrassFactoryWall3</object>
+    <object>objects\moGrassFactoryWall4</object>
     <object>objects\moGrassFactoryFloorEnd1</object>
     <object>objects\moGrassFactoryFloorEnd2</object>
+    <object>objects\moGrassFactoryPlant</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\mrTestLevel</room>
