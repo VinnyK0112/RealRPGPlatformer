@@ -54,16 +54,13 @@
     <instance objName="voGround" x="96" y="448" name="inst_E735A659" locked="0" code="" scaleX="26" scaleY="2" colour="4294967295" rotation="0"/>
     <instance objName="voGround" x="480" y="384" name="inst_0CC0AA32" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
     <instance objName="moPlayer" x="128" y="416" name="inst_FE4EAE8C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moSpring" x="416" y="416" name="inst_380949C3" locked="0" code="jp = -10&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moSpring" x="416" y="416" name="inst_380949C3" locked="0" code="jp = -10" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moSpring" x="480" y="352" name="inst_584EA737" locked="0" code="jp = -20" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moTestObject" x="160" y="160" name="inst_C8C15711" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="voGround" x="96" y="32" name="inst_6D1BFD91" locked="0" code="" scaleX="1" scaleY="5" colour="4294967295" rotation="0"/>
     <instance objName="voGround" x="96" y="192" name="inst_8B17CCD4" locked="0" code="" scaleX="26" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="voGround" x="896" y="32" name="inst_25A37750" locked="0" code="" scaleX="1" scaleY="5" colour="4294967295" rotation="0"/>
     <instance objName="voGround" x="128" y="32" name="inst_D5E6F87E" locked="0" code="" scaleX="24" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="voGround" x="64" y="32" name="inst_2F780BD4" locked="0" code="" scaleX="1" scaleY="15" colour="4294967295" rotation="0"/>
     <instance objName="voGround" x="928" y="32" name="inst_2AE8C6B7" locked="0" code="" scaleX="1" scaleY="15" colour="4294967295" rotation="0"/>
-    <instance objName="voGround" x="192" y="128" name="inst_63210539" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
     <instance objName="voGround" x="320" y="64" name="inst_96017548" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
     <instance objName="voGround" x="448" y="128" name="inst_52916452" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
     <instance objName="voGround" x="608" y="64" name="inst_A43515CC" locked="0" code="" scaleX="2" scaleY="1" colour="4294967295" rotation="0"/>
@@ -73,6 +70,9 @@
     <instance objName="moDummy" x="256" y="384" name="inst_A6CFC58A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moDebugMusic" x="0" y="0" name="inst_BCC9211C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moRoboDude" x="736" y="416" name="inst_169B72F3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="voGround" x="96" y="32" name="inst_FFC1446B" locked="0" code="" scaleX="1" scaleY="5" colour="4294967295" rotation="0"/>
+    <instance objName="voGround" x="192" y="128" name="inst_674F44D3" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
+    <instance objName="moTestObject" x="160" y="160" name="inst_7901E508" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
