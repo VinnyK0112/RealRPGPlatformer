@@ -65,7 +65,7 @@ if image_index = 0 {
 image_speed = 0
 mask_index = msmask }
 
-image_xscale = moPlayer.image_xscale 
+if image_index = 0 { image_xscale = moPlayer.image_xscale }
 </string>
           </argument>
         </arguments>
