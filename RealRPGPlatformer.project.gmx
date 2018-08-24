@@ -9,6 +9,7 @@
     <sound>sound\mm1_1</sound>
     <sound>sound\mmIncapsulated</sound>
     <sound>sound\Rumblings</sound>
+    <sound>sound\jumpsfx</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\vsGround</sprite>
