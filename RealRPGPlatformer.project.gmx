@@ -51,6 +51,9 @@
     <sprite>sprites\msmask</sprite>
     <sprite>sprites\msCapsule</sprite>
     <sprite>sprites\msDoor</sprite>
+    <sprite>sprites\msComputer</sprite>
+    <sprite>sprites\msLevelSequence</sprite>
+    <sprite>sprites\msLevel1_1</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -97,6 +100,7 @@
       <object>objects\moCutsceneDoor</object>
       <object>objects\moCameraZoomOut</object>
     </objects>
+    <object>objects\mo1_1Sequence</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\mr1_1</room>
