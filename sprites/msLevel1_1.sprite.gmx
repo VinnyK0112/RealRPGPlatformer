@@ -8,9 +8,9 @@
   <sepmasks>0</sepmasks>
   <bboxmode>0</bboxmode>
   <bbox_left>0</bbox_left>
-  <bbox_right>417</bbox_right>
-  <bbox_top>391</bbox_top>
-  <bbox_bottom>499</bbox_bottom>
+  <bbox_right>332</bbox_right>
+  <bbox_top>0</bbox_top>
+  <bbox_bottom>61</bbox_bottom>
   <HTile>0</HTile>
   <VTile>0</VTile>
   <TextureGroups>
@@ -21,5 +21,34 @@
   <height>576</height>
   <frames>
     <frame index="0">images\msLevel1_1_0.png</frame>
+    <frame index="1">images\msLevel1_1_1.png</frame>
+    <frame index="2">images\msLevel1_1_2.png</frame>
+    <frame index="3">images\msLevel1_1_3.png</frame>
+    <frame index="4">images\msLevel1_1_4.png</frame>
+    <frame index="5">images\msLevel1_1_5.png</frame>
+    <frame index="6">images\msLevel1_1_6.png</frame>
+    <frame index="7">images\msLevel1_1_7.png</frame>
+    <frame index="8">images\msLevel1_1_8.png</frame>
+    <frame index="9">images\msLevel1_1_9.png</frame>
+    <frame index="10">images\msLevel1_1_10.png</frame>
+    <frame index="11">images\msLevel1_1_11.png</frame>
+    <frame index="12">images\msLevel1_1_12.png</frame>
+    <frame index="13">images\msLevel1_1_13.png</frame>
+    <frame index="14">images\msLevel1_1_14.png</frame>
+    <frame index="15">images\msLevel1_1_15.png</frame>
+    <frame index="16">images\msLevel1_1_16.png</frame>
+    <frame index="17">images\msLevel1_1_17.png</frame>
+    <frame index="18">images\msLevel1_1_18.png</frame>
+    <frame index="19">images\msLevel1_1_19.png</frame>
+    <frame index="20">images\msLevel1_1_20.png</frame>
+    <frame index="21">images\msLevel1_1_21.png</frame>
+    <frame index="22">images\msLevel1_1_22.png</frame>
+    <frame index="23">images\msLevel1_1_23.png</frame>
+    <frame index="24">images\msLevel1_1_24.png</frame>
+    <frame index="25">images\msLevel1_1_25.png</frame>
+    <frame index="26">images\msLevel1_1_26.png</frame>
+    <frame index="27">images\msLevel1_1_27.png</frame>
+    <frame index="28">images\msLevel1_1_28.png</frame>
+    <frame index="29">images\msLevel1_1_29.png</frame>
   </frames>
 </sprite>

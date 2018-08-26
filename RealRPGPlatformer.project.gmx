@@ -62,6 +62,7 @@
     <background>background\background2</background>
     <background>background\mbGrass</background>
     <background>background\mbGrassSky</background>
+    <background>background\mbGrassSkybig</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
@@ -112,8 +113,8 @@
     <object>objects\moTrailTest</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\mrTestLevel</room>
     <room>rooms\mr1_1</room>
+    <room>rooms\mrTestLevel</room>
     <room>rooms\mrDebugRoom</room>
   </rooms>
   <help>
