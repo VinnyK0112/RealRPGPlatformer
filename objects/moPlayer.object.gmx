@@ -112,6 +112,10 @@ sprite_index = msPlayerFall }
 
 if move = 0 &amp;&amp; vspd = 0 &amp;&amp; place_meeting(x,y+1,voGround) {
 sprite_index = msPlayerIdle }
+
+//trail test
+if vspd or hspd != 0 {
+instance_create(moPlayer.x,moPlayer.y,moTrailTest) }
 </string>
           </argument>
         </arguments>
