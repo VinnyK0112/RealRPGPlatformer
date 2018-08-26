@@ -6,6 +6,10 @@
   <NewExtensions/>
   <sounds name="sound">
     <sound>sound\mmBoss1</sound>
+    <sound>sound\mm1_1</sound>
+    <sound>sound\mmIncapsulated</sound>
+    <sound>sound\Rumblings</sound>
+    <sound>sound\jumpsfx</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\vsGround</sprite>
@@ -13,6 +17,9 @@
     <sprite>sprites\msPlayerMove</sprite>
     <sprite>sprites\msPlayerJump</sprite>
     <sprite>sprites\msPlayerFall</sprite>
+    <sprite>sprites\msPlayerIncapsulated</sprite>
+    <sprite>sprites\msPlayerBlasted</sprite>
+    <sprite>sprites\msPlayerUnusedIdle</sprite>
     <sprite>sprites\msSpring</sprite>
     <sprite>sprites\msSmallSpring</sprite>
     <sprite>sprites\msPressureSpring</sprite>
@@ -24,6 +31,7 @@
     <sprite>sprites\msDummy</sprite>
     <sprite>sprites\msRoboDude</sprite>
     <sprite>sprites\msFan</sprite>
+    <sprite>sprites\msFanAir</sprite>
     <sprite>sprites\msFactoryBlock</sprite>
     <sprite>sprites\msFactoryTruss</sprite>
     <sprite>sprites\msFactoryPlatform</sprite>
@@ -35,11 +43,14 @@
     <sprite>sprites\msFactoryFloorEnd</sprite>
     <sprite>sprites\msFactoryFloorEnd2</sprite>
     <sprite>sprites\msFactoryBGWall</sprite>
+    <sprite>sprites\msCapsuleMetal</sprite>
     <sprite>sprites\msFactoryPlant</sprite>
     <sprite>sprites\msFactoryTube</sprite>
     <sprite>sprites\msFactoryTubeSide</sprite>
     <sprite>sprites\msSeedPackager</sprite>
     <sprite>sprites\msmask</sprite>
+    <sprite>sprites\msCapsule</sprite>
+    <sprite>sprites\msDoor</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -59,6 +70,7 @@
     <object>objects\moRoboDude</object>
     <object>objects\moTestHandGiver</object>
     <object>objects\moFan</object>
+    <object>objects\moFanAir</object>
     <object>objects\moFactoryBlock</object>
     <object>objects\moGrassFactoryTruss</object>
     <object>objects\moFactoryTube</object>
@@ -73,11 +85,21 @@
     <object>objects\moGrassFactoryWallBG</object>
     <object>objects\moGrassFactoryPlant</object>
     <object>objects\moSeedPackager</object>
-    <object>objects\moZoomTest</object>
     <object>objects\moFactoryPlatform</object>
+    <object>objects\moZoomHandler</object>
     <object>objects\moCollisionCheckerCode</object>
+    <object>objects\moMusic1_1</object>
+    <objects name="Cutscene Objects">
+      <object>objects\moCapsuleMetal</object>
+      <object>objects\moIncapsulated</object>
+      <object>objects\moPlayerBlasted</object>
+      <object>objects\moCapsule</object>
+      <object>objects\moCutsceneDoor</object>
+      <object>objects\moCameraZoomOut</object>
+    </objects>
   </objects>
   <rooms name="rooms">
+    <room>rooms\mr1_1</room>
     <room>rooms\mrTestLevel</room>
     <room>rooms\mrDebugRoom</room>
   </rooms>
