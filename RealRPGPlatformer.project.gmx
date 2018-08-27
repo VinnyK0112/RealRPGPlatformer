@@ -71,6 +71,11 @@
     <background>background\mbGrass</background>
     <background>background\mbGrassSky</background>
     <background>background\mbGrassSkybig</background>
+    <background>background\mbgSunsetSky</background>
+    <background>background\mbgHills</background>
+    <background>background\mbgBush</background>
+    <background>background\mbgTrees</background>
+    <background>background\mbgTreesBig</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
@@ -121,7 +126,7 @@
       <object>objects\moCameraZoomOut</object>
     </objects>
     <object>objects\mo1_1Sequence</object>
-    <object>objects\moparlax_scoolrt</object>
+    <object>objects\moparlax_scoolrt1_1</object>
     <object>objects\moTrailTest</object>
     <object>objects\moGirderHolder</object>
     <object>objects\moGirderLine</object>

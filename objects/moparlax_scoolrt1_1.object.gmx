@@ -25,7 +25,10 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>background_x[0] = view_xview[3]/1.4
+            <string>background_x[0] = view_xview[2]/1.4
+background_x[1] = view_xview[2]/1.6
+background_x[2] = view_xview[2]/1.8
+background_x[3] = view_xview[2]/2.0
 </string>
           </argument>
         </arguments>
