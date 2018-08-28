@@ -51,12 +51,46 @@
     <sprite>sprites\msmask</sprite>
     <sprite>sprites\msCapsule</sprite>
     <sprite>sprites\msDoor</sprite>
+    <sprite>sprites\msComputer</sprite>
+    <sprite>sprites\msLevelSequence</sprite>
+    <sprite>sprites\msLevel1_1</sprite>
+    <sprite>sprites\msTrailTest</sprite>
+    <sprite>sprites\msGirderVerticle</sprite>
+    <sprite>sprites\msGirderVBG</sprite>
+    <sprite>sprites\msGirderHorizontal</sprite>
+    <sprite>sprites\msGirderHBG</sprite>
+    <sprite>sprites\msGirderHolder</sprite>
+    <sprite>sprites\msGirderLine</sprite>
+    <sprite>sprites\msGirderLineEnd</sprite>
+    <sprite>sprites\msGirderGrabber</sprite>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\mbg_1</background>
+    <background>background\mbg_2</background>
+    <background>background\background2</background>
+    <background>background\mbGrass</background>
+    <background>background\mbGrassSky</background>
+    <background>background\mbGrassSkybig</background>
+    <background>background\mbgSunsetSky</background>
+    <background>background\mbgHills</background>
+    <background>background\mbgBush</background>
+    <background>background\mbgTrees</background>
+    <background>background\mbgTreesBig</background>
+    <background>background\mbgFactory</background>
+    <background>background\mbgFarBackground</background>
+  </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\voGround</object>
     <object>objects\moPlayer</object>
+    <objects name="Cutscene Objects">
+      <object>objects\moCapsuleMetal</object>
+      <object>objects\moIncapsulated</object>
+      <object>objects\moPlayerBlasted</object>
+      <object>objects\moCapsule</object>
+      <object>objects\moCutsceneDoor</object>
+      <object>objects\moCameraZoomOut</object>
+    </objects>
     <object>objects\moSpring</object>
     <object>objects\moSmallSpring</object>
     <object>objects\moPressureSpring</object>
@@ -75,6 +109,10 @@
     <object>objects\moGrassFactoryTruss</object>
     <object>objects\moFactoryTube</object>
     <object>objects\moFactoryTubeSide</object>
+    <object>objects\moGirderV</object>
+    <object>objects\moGirderVb</object>
+    <object>objects\moGirderH</object>
+    <object>objects\moGirderHb</object>
     <object>objects\moGrassFactoryFloor</object>
     <object>objects\moGrassFactoryWall</object>
     <object>objects\moGrassFactoryWall2</object>
@@ -89,14 +127,13 @@
     <object>objects\moZoomHandler</object>
     <object>objects\moCollisionCheckerCode</object>
     <object>objects\moMusic1_1</object>
-    <objects name="Cutscene Objects">
-      <object>objects\moCapsuleMetal</object>
-      <object>objects\moIncapsulated</object>
-      <object>objects\moPlayerBlasted</object>
-      <object>objects\moCapsule</object>
-      <object>objects\moCutsceneDoor</object>
-      <object>objects\moCameraZoomOut</object>
-    </objects>
+    <object>objects\mo1_1Sequence</object>
+    <object>objects\moparlax_scoolrt1_1</object>
+    <object>objects\moTrailTest</object>
+    <object>objects\moGirderHolder</object>
+    <object>objects\moGirderLine</object>
+    <object>objects\moGirderLineEnd</object>
+    <object>objects\moGirderGrabber</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\mr1_1</room>
