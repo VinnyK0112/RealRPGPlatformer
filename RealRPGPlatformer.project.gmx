@@ -7,13 +7,22 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\vsGround</sprite>
+    <sprite>sprites\sprite16</sprite>
     <sprite>sprites\msPlayerIdle</sprite>
     <sprite>sprites\msPlayerMove</sprite>
     <sprite>sprites\msPlayerJump</sprite>
-    <sprite>sprites\msPlayerFall</sprite>
+    <sprite>sprites\sprites/JoWaterBubble</sprite>
     <sprite>sprites\msSpring</sprite>
     <sprite>sprites\msDrill</sprite>
     <sprite>sprites\jsEatDust</sprite>
+    <sprite>sprites\JoWaterBubble</sprite>
+    <sprite>sprites\JoBlue</sprite>
+    <sprite>sprites\JoWaterfalling</sprite>
+    <sprite>sprites\joSplash</sprite>
+    <sprite>sprites\joSplashFade</sprite>
+    <sprite>sprites\JoStage1Preview</sprite>
+    <sprite>sprites\sprite14</sprite>
+    <sprite>sprites\sprite15_New_Piskel__5_</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -22,9 +31,17 @@
     <object>objects\moPlayer</object>
     <object>objects\moSpring</object>
     <object>objects\TestObject</object>
+    <object>objects\joWater</object>
+    <object>objects\joWaterTop</object>
+    <object>objects\JoWaterFall</object>
+    <object>objects\joWave</object>
+    <object>objects\joWaterSurround</object>
+    <object>objects\object10</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\room1</room>
     <room>rooms\room0</room>
+    <room>rooms\room2</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
