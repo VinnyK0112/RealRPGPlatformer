@@ -4,17 +4,34 @@
     <Config>Configs\Default</Config>
   </Configs>
   <NewExtensions/>
-  <sounds name="sound"/>
+  <sounds name="sound">
+    <sound>sound\mmBoss1</sound>
+    <sound>sound\mm1_1</sound>
+    <sound>sound\mmIncapsulated</sound>
+    <sound>sound\Rumblings</sound>
+    <sound>sound\jumpsfx</sound>
+  </sounds>
   <sprites name="sprites">
     <sprite>sprites\vsGround</sprite>
     <sprite>sprites\sprite16</sprite>
     <sprite>sprites\msPlayerIdle</sprite>
     <sprite>sprites\msPlayerMove</sprite>
     <sprite>sprites\msPlayerJump</sprite>
+<<<<<<< HEAD
     <sprite>sprites\sprites/JoWaterBubble</sprite>
+=======
+    <sprite>sprites\msPlayerFall</sprite>
+    <sprite>sprites\msPlayerIncapsulated</sprite>
+    <sprite>sprites\msPlayerBlasted</sprite>
+    <sprite>sprites\msPlayerUnusedIdle</sprite>
+>>>>>>> master
     <sprite>sprites\msSpring</sprite>
+    <sprite>sprites\msSmallSpring</sprite>
+    <sprite>sprites\msPressureSpring</sprite>
+    <sprite>sprites\msSmallPressureSpring</sprite>
     <sprite>sprites\msDrill</sprite>
     <sprite>sprites\jsEatDust</sprite>
+<<<<<<< HEAD
     <sprite>sprites\JoWaterBubble</sprite>
     <sprite>sprites\JoBlue</sprite>
     <sprite>sprites\JoWaterfalling</sprite>
@@ -23,6 +40,33 @@
     <sprite>sprites\JoStage1Preview</sprite>
     <sprite>sprites\sprite14</sprite>
     <sprite>sprites\sprite15_New_Piskel__5_</sprite>
+=======
+    <sprite>sprites\msSwordhands</sprite>
+    <sprite>sprites\msBoomerangHand</sprite>
+    <sprite>sprites\msDummy</sprite>
+    <sprite>sprites\msRoboDude</sprite>
+    <sprite>sprites\msFan</sprite>
+    <sprite>sprites\msFanAir</sprite>
+    <sprite>sprites\msFactoryBlock</sprite>
+    <sprite>sprites\msFactoryTruss</sprite>
+    <sprite>sprites\msFactoryPlatform</sprite>
+    <sprite>sprites\msFactoryFloor</sprite>
+    <sprite>sprites\msFactoryWall</sprite>
+    <sprite>sprites\msFactoryWall2</sprite>
+    <sprite>sprites\msFactoryWall3</sprite>
+    <sprite>sprites\msFactoryWall4</sprite>
+    <sprite>sprites\msFactoryFloorEnd</sprite>
+    <sprite>sprites\msFactoryFloorEnd2</sprite>
+    <sprite>sprites\msFactoryBGWall</sprite>
+    <sprite>sprites\msCapsuleMetal</sprite>
+    <sprite>sprites\msFactoryPlant</sprite>
+    <sprite>sprites\msFactoryTube</sprite>
+    <sprite>sprites\msFactoryTubeSide</sprite>
+    <sprite>sprites\msSeedPackager</sprite>
+    <sprite>sprites\msmask</sprite>
+    <sprite>sprites\msCapsule</sprite>
+    <sprite>sprites\msDoor</sprite>
+>>>>>>> master
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -30,6 +74,7 @@
     <object>objects\voGround</object>
     <object>objects\moPlayer</object>
     <object>objects\moSpring</object>
+<<<<<<< HEAD
     <object>objects\TestObject</object>
     <object>objects\joWater</object>
     <object>objects\joWaterTop</object>
@@ -42,6 +87,52 @@
     <room>rooms\room1</room>
     <room>rooms\room0</room>
     <room>rooms\room2</room>
+=======
+    <object>objects\moSmallSpring</object>
+    <object>objects\moPressureSpring</object>
+    <object>objects\moSmallPresureSpring</object>
+    <object>objects\moTestObject</object>
+    <object>objects\moSwordHands</object>
+    <object>objects\moBoomerHand</object>
+    <object>objects\moDummy</object>
+    <object>objects\momask</object>
+    <object>objects\moDebugMusic</object>
+    <object>objects\moRoboDude</object>
+    <object>objects\moTestHandGiver</object>
+    <object>objects\moFan</object>
+    <object>objects\moFanAir</object>
+    <object>objects\moFactoryBlock</object>
+    <object>objects\moGrassFactoryTruss</object>
+    <object>objects\moFactoryTube</object>
+    <object>objects\moFactoryTubeSide</object>
+    <object>objects\moGrassFactoryFloor</object>
+    <object>objects\moGrassFactoryWall</object>
+    <object>objects\moGrassFactoryWall2</object>
+    <object>objects\moGrassFactoryWall3</object>
+    <object>objects\moGrassFactoryWall4</object>
+    <object>objects\moGrassFactoryFloorEnd1</object>
+    <object>objects\moGrassFactoryFloorEnd2</object>
+    <object>objects\moGrassFactoryWallBG</object>
+    <object>objects\moGrassFactoryPlant</object>
+    <object>objects\moSeedPackager</object>
+    <object>objects\moFactoryPlatform</object>
+    <object>objects\moZoomHandler</object>
+    <object>objects\moCollisionCheckerCode</object>
+    <object>objects\moMusic1_1</object>
+    <objects name="Cutscene Objects">
+      <object>objects\moCapsuleMetal</object>
+      <object>objects\moIncapsulated</object>
+      <object>objects\moPlayerBlasted</object>
+      <object>objects\moCapsule</object>
+      <object>objects\moCutsceneDoor</object>
+      <object>objects\moCameraZoomOut</object>
+    </objects>
+  </objects>
+  <rooms name="rooms">
+    <room>rooms\mr1_1</room>
+    <room>rooms\mrTestLevel</room>
+    <room>rooms\mrDebugRoom</room>
+>>>>>>> master
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

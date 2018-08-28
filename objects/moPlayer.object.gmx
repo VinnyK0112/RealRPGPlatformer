@@ -78,6 +78,7 @@ if (jumpkey) &amp;&amp; (jumps &gt; 0)
 {
     jumps -= 1;
     vspd = jumpkey * -jumpspeed;
+    audio_play_sound(jumpsfx,3,false)
 }
 
 // H collision
