@@ -83,6 +83,14 @@
   <objects name="objects">
     <object>objects\voGround</object>
     <object>objects\moPlayer</object>
+    <objects name="Cutscene Objects">
+      <object>objects\moCapsuleMetal</object>
+      <object>objects\moIncapsulated</object>
+      <object>objects\moPlayerBlasted</object>
+      <object>objects\moCapsule</object>
+      <object>objects\moCutsceneDoor</object>
+      <object>objects\moCameraZoomOut</object>
+    </objects>
     <object>objects\moSpring</object>
     <object>objects\moSmallSpring</object>
     <object>objects\moPressureSpring</object>
@@ -119,14 +127,6 @@
     <object>objects\moZoomHandler</object>
     <object>objects\moCollisionCheckerCode</object>
     <object>objects\moMusic1_1</object>
-    <objects name="Cutscene Objects">
-      <object>objects\moCapsuleMetal</object>
-      <object>objects\moIncapsulated</object>
-      <object>objects\moPlayerBlasted</object>
-      <object>objects\moCapsule</object>
-      <object>objects\moCutsceneDoor</object>
-      <object>objects\moCameraZoomOut</object>
-    </objects>
     <object>objects\mo1_1Sequence</object>
     <object>objects\moparlax_scoolrt1_1</object>
     <object>objects\moTrailTest</object>
