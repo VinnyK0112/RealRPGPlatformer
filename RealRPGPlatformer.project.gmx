@@ -76,6 +76,8 @@
     <background>background\mbgBush</background>
     <background>background\mbgTrees</background>
     <background>background\mbgTreesBig</background>
+    <background>background\mbgFactory</background>
+    <background>background\mbgFarBackground</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
