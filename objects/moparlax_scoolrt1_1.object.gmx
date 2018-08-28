@@ -28,7 +28,7 @@
             <string>background_x[0] = view_xview[2]/1.2
 background_x[1] = view_xview[2]/1.6
 background_x[2] = view_xview[2]/2.0
-background_x[3] = view_xview[2]/2.4
+background_x[3] = view_xview[2]/2.2
 </string>
           </argument>
         </arguments>
