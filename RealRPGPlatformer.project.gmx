@@ -10,10 +10,6 @@
     <sound>sound\mmIncapsulated</sound>
     <sound>sound\Rumblings</sound>
     <sound>sound\jumpsfx</sound>
-    <sound>sound\Bird_Chirp</sound>
-    <sound>sound\Silence</sound>
-    <sound>sound\Owl_Howl</sound>
-    <sound>sound\Place_Holder</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\vsGround</sprite>
@@ -27,7 +23,6 @@
     <sprite>sprites\msSpring</sprite>
     <sprite>sprites\msSmallSpring</sprite>
     <sprite>sprites\msPressureSpring</sprite>
-    <sprite>sprites\jsPressureSpringFlipped</sprite>
     <sprite>sprites\msSmallPressureSpring</sprite>
     <sprite>sprites\msDrill</sprite>
     <sprite>sprites\jsEatDust</sprite>
@@ -50,7 +45,6 @@
     <sprite>sprites\msFactoryBGWall</sprite>
     <sprite>sprites\msCapsuleMetal</sprite>
     <sprite>sprites\msFactoryPlant</sprite>
-    <sprite>sprites\jsWarningSign</sprite>
     <sprite>sprites\msFactoryTube</sprite>
     <sprite>sprites\msFactoryTubeSide</sprite>
     <sprite>sprites\msSeedPackager</sprite>
@@ -65,11 +59,8 @@
     <sprite>sprites\msGirderVBG</sprite>
     <sprite>sprites\msGirderHorizontal</sprite>
     <sprite>sprites\msGirderHBG</sprite>
-    <sprite>sprites\jsGirderTransition</sprite>
-    <sprite>sprites\jsBolts</sprite>
     <sprite>sprites\msGirderHolder</sprite>
     <sprite>sprites\msGirderLine</sprite>
-    <sprite>sprites\jsGirderLineMove</sprite>
     <sprite>sprites\msGirderLineEnd</sprite>
     <sprite>sprites\msGirderGrabber</sprite>
   </sprites>
@@ -87,8 +78,6 @@
     <background>background\mbgTreesBig</background>
     <background>background\mbgFactory</background>
     <background>background\mbgFarBackground</background>
-    <background>background\background13</background>
-    <background>background\background14</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
@@ -105,7 +94,6 @@
     <object>objects\moSpring</object>
     <object>objects\moSmallSpring</object>
     <object>objects\moPressureSpring</object>
-    <object>objects\joPressureSpringFlipped</object>
     <object>objects\moSmallPresureSpring</object>
     <object>objects\moTestObject</object>
     <object>objects\moSwordHands</object>
@@ -125,7 +113,6 @@
     <object>objects\moGirderVb</object>
     <object>objects\moGirderH</object>
     <object>objects\moGirderHb</object>
-    <object>objects\joGirderT</object>
     <object>objects\moGrassFactoryFloor</object>
     <object>objects\moGrassFactoryWall</object>
     <object>objects\moGrassFactoryWall2</object>
@@ -145,12 +132,8 @@
     <object>objects\moTrailTest</object>
     <object>objects\moGirderHolder</object>
     <object>objects\moGirderLine</object>
-    <object>objects\joGirderLineMove</object>
     <object>objects\moGirderLineEnd</object>
     <object>objects\moGirderGrabber</object>
-    <object>objects\joBirdGenerator</object>
-    <object>objects\joMusicGenerator</object>
-    <object>objects\joWarningSign</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\mr1_1</room>
