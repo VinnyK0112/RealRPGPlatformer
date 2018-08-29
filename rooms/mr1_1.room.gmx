@@ -1738,7 +1738,6 @@
     <instance objName="moGrassFactoryWall4" x="3392" y="512" name="inst_6C2527D6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGrassFactoryWall2" x="2848" y="320" name="inst_998950B1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moSmallSpring" x="4160" y="480" name="inst_0EEF6CA7" locked="0" code="jp = -10&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moPressureSpring" x="4416" y="512" name="inst_94E1BDDE" locked="0" code="jp = 5&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGrassFactoryFloor" x="4416" y="544" name="inst_E7500734" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGrassFactoryFloor" x="4448" y="544" name="inst_32317630" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGirderV" x="4480" y="544" name="inst_882EF914" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -1772,7 +1771,6 @@
     <instance objName="moGrassFactoryFloor" x="4320" y="384" name="inst_F913D387" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGrassFactoryFloor" x="4352" y="384" name="inst_9569815E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGirderV" x="4480" y="288" name="inst_ACBC2356" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="joPressureSpringFlipped" x="4416" y="320" name="inst_1CCB4F87" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGrassFactoryWall" x="4416" y="288" name="inst_E4911186" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGrassFactoryWall" x="4448" y="288" name="inst_D120B17B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGrassFactoryWall" x="4448" y="256" name="inst_4C4326F1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -1783,6 +1781,8 @@
     <instance objName="moGirderV" x="4480" y="224" name="inst_7BD2682A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGirderVb" x="4480" y="448" name="inst_F9BBB0C2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGirderVb" x="4480" y="416" name="inst_AF9D7661" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moPressureSpring" x="4416" y="512" name="inst_1A95FA5F" locked="0" code="jp -= 5&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="joPressureSpringFlipped" x="4416" y="320" name="inst_122A4D20" locked="0" code="jp += 5&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

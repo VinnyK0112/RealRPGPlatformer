@@ -18,6 +18,7 @@
   <sprites name="sprites">
     <sprite>sprites\vsGround</sprite>
     <sprite>sprites\msPlayerIdle</sprite>
+    <sprite>sprites\jsPlayerWoah</sprite>
     <sprite>sprites\msPlayerMove</sprite>
     <sprite>sprites\msPlayerJump</sprite>
     <sprite>sprites\msPlayerFall</sprite>
@@ -66,12 +67,14 @@
     <sprite>sprites\msGirderHorizontal</sprite>
     <sprite>sprites\msGirderHBG</sprite>
     <sprite>sprites\jsGirderTransition</sprite>
+    <sprite>sprites\jsGirderShake</sprite>
     <sprite>sprites\jsBolts</sprite>
     <sprite>sprites\msGirderHolder</sprite>
     <sprite>sprites\msGirderLine</sprite>
     <sprite>sprites\jsGirderLineMove</sprite>
     <sprite>sprites\msGirderLineEnd</sprite>
     <sprite>sprites\msGirderGrabber</sprite>
+    <sprite>sprites\jsGirderGrabberFlipped</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\mbg_1</background>
@@ -95,12 +98,19 @@
     <object>objects\voGround</object>
     <object>objects\moPlayer</object>
     <objects name="Cutscene Objects">
-      <object>objects\moCapsuleMetal</object>
-      <object>objects\moIncapsulated</object>
-      <object>objects\moPlayerBlasted</object>
-      <object>objects\moCapsule</object>
-      <object>objects\moCutsceneDoor</object>
-      <object>objects\moCameraZoomOut</object>
+      <objects name="1">
+        <object>objects\moCapsuleMetal</object>
+        <object>objects\moIncapsulated</object>
+        <object>objects\moPlayerBlasted</object>
+        <object>objects\moCapsule</object>
+        <object>objects\moCutsceneDoor</object>
+        <object>objects\moCameraZoomOut</object>
+      </objects>
+      <objects name="2">
+        <object>objects\joPlayerGirderBegin</object>
+        <object>objects\joGirderSequence</object>
+        <object>objects\joTruss_Sequence</object>
+      </objects>
     </objects>
     <object>objects\moSpring</object>
     <object>objects\moSmallSpring</object>
@@ -145,14 +155,18 @@
     <object>objects\moTrailTest</object>
     <object>objects\moGirderHolder</object>
     <object>objects\moGirderLine</object>
+    <object>objects\joGirderLineBack</object>
     <object>objects\joGirderLineMove</object>
     <object>objects\moGirderLineEnd</object>
     <object>objects\moGirderGrabber</object>
     <object>objects\joBirdGenerator</object>
     <object>objects\joMusicGenerator</object>
     <object>objects\joWarningSign</object>
+    <object>objects\joGirderGrabberFlipped</object>
+    <object>objects\joCameraZoomout</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\jr2_1</room>
     <room>rooms\mr1_1</room>
     <room>rooms\mrTestLevel</room>
     <room>rooms\mrDebugRoom</room>
