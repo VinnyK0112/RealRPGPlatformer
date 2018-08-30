@@ -13,7 +13,6 @@
     <sound>sound\Bird_Chirp</sound>
     <sound>sound\Silence</sound>
     <sound>sound\Owl_Howl</sound>
-    <sound>sound\Place_Holder</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\vsGround</sprite>
@@ -24,6 +23,7 @@
     <sprite>sprites\msPlayerFall</sprite>
     <sprite>sprites\msPlayerIncapsulated</sprite>
     <sprite>sprites\msPlayerBlasted</sprite>
+    <sprite>sprites\msPlayerLookup</sprite>
     <sprite>sprites\msPlayerUnusedIdle</sprite>
     <sprite>sprites\msSpring</sprite>
     <sprite>sprites\msSmallSpring</sprite>
@@ -75,6 +75,8 @@
     <sprite>sprites\msGirderLineEnd</sprite>
     <sprite>sprites\msGirderGrabber</sprite>
     <sprite>sprites\jsGirderGrabberFlipped</sprite>
+    <sprite>sprites\ms1_1TV</sprite>
+
   </sprites>
   <backgrounds name="background">
     <background>background\mbg_1</background>
@@ -164,12 +166,16 @@
     <object>objects\joWarningSign</object>
     <object>objects\joGirderGrabberFlipped</object>
     <object>objects\joCameraZoomout</object>
+    <object>objects\mo1_1TvTransition</object>
+    <object>objects\mo1_1CutsceneCameraTrig</object>
+    <object>objects\mo1_1CutsceneTrigger</object>
+    <object>objects\moCutsceneLookup1</object>
+    <object>objects\moCameraZoomIn</object>
+
   </objects>
   <rooms name="rooms">
     <room>rooms\jr2_1</room>
     <room>rooms\mr1_1</room>
-    <room>rooms\mrTestLevel</room>
-    <room>rooms\mrDebugRoom</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
