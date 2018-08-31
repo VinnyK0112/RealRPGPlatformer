@@ -11,7 +11,7 @@
   <colour>12632256</colour>
   <showcolour>-1</showcolour>
   <code></code>
-  <enableViews>0</enableViews>
+  <enableViews>-1</enableViews>
   <clearViewBackground>-1</clearViewBackground>
   <clearDisplayBuffer>-1</clearDisplayBuffer>
   <makerSettings>
@@ -41,14 +41,14 @@
     <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
   </backgrounds>
   <views>
-    <view visible="-1" objName="joPlayerGirderBegin" xview="500" yview="500" wview="500" hview="500" xport="0" yport="0" wport="1024" hport="768" hborder="999" vborder="999" hspeed="999" vspeed="999"/>
-    <view visible="0" objName="moPlayer" xview="500" yview="500" wview="500" hview="500" xport="0" yport="0" wport="1024" hport="768" hborder="999" vborder="999" hspeed="999" vspeed="999"/>
-    <view visible="0" objName="moPlayer" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="999" vborder="999" hspeed="999" vspeed="999"/>
-    <view visible="0" objName="" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
-    <view visible="0" objName="" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
-    <view visible="0" objName="" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
-    <view visible="0" objName="" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
-    <view visible="0" objName="" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="-1" objName="momask" xview="0" yview="0" wview="1024" hview="576" xport="0" yport="0" wport="1024" hport="576" hborder="1024" vborder="576" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="moPlayer" xview="0" yview="0" wview="1024" hview="576" xport="0" yport="0" wport="1024" hport="576" hborder="1024" vborder="576" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="999" vborder="999" hspeed="999" vspeed="999"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
   </views>
   <instances>
     <instance objName="moGirderV" x="128" y="288" name="inst_93B8C2F9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -119,8 +119,10 @@
     <instance objName="joTruss_Sequence" x="64" y="256" name="inst_0C23F399" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="joTruss_Sequence" x="64" y="224" name="inst_F7403666" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="joTruss_Sequence" x="96" y="320" name="inst_33FCC641" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moZoomHandler" x="-192" y="256" name="inst_9BDA5916" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="joCameraZoomout" x="320" y="384" name="inst_4191381F" locked="0" code="" scaleX="0.5" scaleY="7" colour="4294967295" rotation="0"/>
+    <instance objName="moZoomHandler" x="-192" y="256" name="inst_9BDA5916" locked="0" code="zoom = 0.5&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="joCameraTrigger" x="64" y="608" name="inst_98D7CBF4" locked="0" code="" scaleX="4" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="mo2_1Sequencer" x="320" y="448" name="inst_A2B65FE4" locked="0" code="" scaleX="0.5" scaleY="5" colour="4294967295" rotation="0"/>
+    <instance objName="momask" x="96" y="288" name="inst_FBD2F00B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
