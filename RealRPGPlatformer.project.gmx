@@ -76,6 +76,8 @@
     <sprite>sprites\msGirderGrabber</sprite>
     <sprite>sprites\jsGirderGrabberFlipped</sprite>
     <sprite>sprites\ms1_1TV</sprite>
+    <sprite>sprites\msFadeAway1</sprite>
+    <sprite>sprites\msFadeAway2</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\mbg_1</background>
@@ -155,9 +157,14 @@
     <object>objects\moGrassFactoryPlant</object>
     <object>objects\moSeedPackager</object>
     <object>objects\moFactoryPlatform</object>
+    <object>objects\moFactoryPlatformAlt</object>
     <object>objects\moZoomHandler</object>
     <object>objects\moCollisionCheckerCode</object>
+    <object>objects\moNextLevelTest</object>
+    <object>objects\mo1_1LevelEnder</object>
     <object>objects\moMusic1_1</object>
+    <object>objects\moFadeInHandler</object>
+    <object>objects\moFadeOutHandler</object>
     <object>objects\mo1_1Sequence</object>
     <object>objects\moparlax_scoolrt1_1</object>
     <object>objects\moTrailTest</object>
@@ -176,8 +183,8 @@
     <object>objects\mo2_1Sequencer</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\jr2_1</room>
     <room>rooms\mr1_1</room>
+    <room>rooms\jr2_1</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

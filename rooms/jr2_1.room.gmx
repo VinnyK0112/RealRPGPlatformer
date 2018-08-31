@@ -123,6 +123,7 @@
     <instance objName="joCameraTrigger" x="64" y="608" name="inst_98D7CBF4" locked="0" code="" scaleX="4" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="mo2_1Sequencer" x="320" y="448" name="inst_A2B65FE4" locked="0" code="" scaleX="0.5" scaleY="5" colour="4294967295" rotation="0"/>
     <instance objName="momask" x="96" y="288" name="inst_FBD2F00B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moFadeInHandler" x="0" y="-32" name="inst_B12EFD8E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
