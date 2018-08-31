@@ -133,7 +133,7 @@ view_visible[2] = true
         <arguments>
           <argument>
             <kind>10</kind>
-            <object>moCameraZoomOut</object>
+            <object>mo1_1Sequence</object>
           </argument>
           <argument>
             <kind>0</kind>
@@ -161,7 +161,7 @@ view_visible[2] = true
         <arguments>
           <argument>
             <kind>10</kind>
-            <object>mo1_1Sequence</object>
+            <object>moCameraZoomOut</object>
           </argument>
           <argument>
             <kind>0</kind>

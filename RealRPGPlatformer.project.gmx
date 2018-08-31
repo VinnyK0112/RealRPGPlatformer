@@ -14,6 +14,9 @@
     <sound>sound\Silence</sound>
     <sound>sound\Owl_Howl</sound>
     <sound>sound\Place_Holder</sound>
+    <sound>sound\Title_Begin</sound>
+    <sound>sound\Title_Loop</sound>
+    <sound>sound\sound11</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\vsGround</sprite>
@@ -24,6 +27,7 @@
     <sprite>sprites\msPlayerFall</sprite>
     <sprite>sprites\msPlayerIncapsulated</sprite>
     <sprite>sprites\msPlayerBlasted</sprite>
+    <sprite>sprites\msPlayerLookup</sprite>
     <sprite>sprites\msPlayerUnusedIdle</sprite>
     <sprite>sprites\msSpring</sprite>
     <sprite>sprites\msSmallSpring</sprite>
@@ -75,6 +79,22 @@
     <sprite>sprites\msGirderLineEnd</sprite>
     <sprite>sprites\msGirderGrabber</sprite>
     <sprite>sprites\jsGirderGrabberFlipped</sprite>
+    <sprite>sprites\Title_No_Select</sprite>
+    <sprite>sprites\TItle_Credits</sprite>
+    <sprite>sprites\Title_Vol_Down</sprite>
+    <sprite>sprites\Title_Vol_Up</sprite>
+    <sprite>sprites\Title_Windowed</sprite>
+    <sprite>sprites\Title_FullScreen</sprite>
+    <sprite>sprites\TItle_Quit</sprite>
+    <sprite>sprites\Title_Play</sprite>
+    <sprite>sprites\sprite67</sprite>
+    <sprite>sprites\sprite68</sprite>
+    <sprite>sprites\Title_StartLoad</sprite>
+    <sprite>sprites\sprite70</sprite>
+    <sprite>sprites\sprite71</sprite>
+    <sprite>sprites\Title_Back</sprite>
+    <sprite>sprites\sprite73_Title_Game_Created_By</sprite>
+    <sprite>sprites\ms1_1TV</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\mbg_1</background>
@@ -164,12 +184,32 @@
     <object>objects\joWarningSign</object>
     <object>objects\joGirderGrabberFlipped</object>
     <object>objects\joCameraZoomout</object>
+    <object>objects\joTitleScreen</object>
+    <object>objects\joPlay1</object>
+    <object>objects\joQuit2</object>
+    <object>objects\joCredits</object>
+    <object>objects\joWindowed</object>
+    <object>objects\joFullScreen</object>
+    <object>objects\joVolUp</object>
+    <object>objects\joVolDown</object>
+    <object>objects\joTitleScreenBottom</object>
+    <object>objects\joNewGametxt</object>
+    <object>objects\joLoadtxt</object>
+    <object>objects\joNewGame</object>
+    <object>objects\joCreditBack</object>
+    <object>objects\joCreditText</object>
+    <object>objects\mo1_1TvTransition</object>
+    <object>objects\mo1_1CutsceneCameraTrig</object>
+    <object>objects\mo1_1CutsceneTrigger</object>
+    <object>objects\moCutsceneLookup1</object>
+    <object>objects\moCameraZoomIn</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\joTitle_01</room>
+    <room>rooms\joTitle_02</room>
+    <room>rooms\joTitle_03</room>
     <room>rooms\jr2_1</room>
     <room>rooms\mr1_1</room>
-    <room>rooms\mrTestLevel</room>
-    <room>rooms\mrDebugRoom</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

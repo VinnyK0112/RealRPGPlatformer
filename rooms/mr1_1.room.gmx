@@ -1475,7 +1475,6 @@
     <instance objName="moGrassFactoryTruss" x="3552" y="96" name="inst_3161021A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGrassFactoryTruss" x="3552" y="128" name="inst_867EF461" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGrassFactoryTruss" x="3584" y="128" name="inst_24634A26" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moGrassFactoryTruss" x="3584" y="96" name="inst_32B94F90" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGrassFactoryTruss" x="3520" y="128" name="inst_73C174DC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moparlax_scoolrt1_1" x="64" y="-32" name="inst_05196601" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGirderH" x="3648" y="352" name="inst_F51439A0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -1502,7 +1501,6 @@
     <instance objName="moGirderLine" x="3808" y="64" name="inst_595964E8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGirderLine" x="3808" y="32" name="inst_22BD0D99" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGirderLine" x="3648" y="32" name="inst_125839A1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moGrassFactoryTruss" x="3584" y="64" name="inst_81E734FA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGrassFactoryTruss" x="3584" y="32" name="inst_B31F20FE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGrassFactoryTruss" x="3584" y="0" name="inst_4DFC9DC6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGrassFactoryTruss" x="3616" y="0" name="inst_563B5B4B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -1530,41 +1528,14 @@
     <instance objName="moGirderGrabber" x="3936" y="224" name="inst_951CD95A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGirderV" x="3968" y="256" name="inst_47FF4727" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="joGirderT" x="3968" y="224" name="inst_2471BED4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moSpring" x="3648" y="320" name="inst_7CFE48A6" locked="0" code="jp = -15&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGirderV" x="3968" y="288" name="inst_89457CE0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGirderV" x="3968" y="320" name="inst_DF3C658A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moGirderH" x="3904" y="416" name="inst_41978452" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moGirderH" x="3872" y="416" name="inst_9D972B32" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGrassFactoryTruss" x="3968" y="32" name="inst_F846016D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGirderGrabber" x="3808" y="352" name="inst_550F7C28" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moGirderGrabber" x="3872" y="416" name="inst_DF7CA050" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moGirderGrabber" x="3968" y="224" name="inst_391D28AE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moSpring" x="3872" y="384" name="inst_83BCE557" locked="0" code="jp = -15&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moGirderLine" x="3872" y="352" name="inst_92E4B209" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moGirderLine" x="3872" y="288" name="inst_61830036" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moGirderLine" x="3872" y="256" name="inst_45D80B2C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moGirderLine" x="3872" y="224" name="inst_BD602192" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moGirderLine" x="3872" y="192" name="inst_C6F621CA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moGirderLine" x="3872" y="160" name="inst_6B7D3477" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moGirderLine" x="3872" y="128" name="inst_9CD84EED" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moGirderLine" x="3872" y="96" name="inst_996DCEFC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moGirderLine" x="3872" y="64" name="inst_C8974C77" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moGirderLine" x="3904" y="352" name="inst_59D47916" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moGirderLine" x="3904" y="320" name="inst_DD87C769" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moGirderLine" x="3904" y="288" name="inst_FA5612DA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moGirderLine" x="3904" y="256" name="inst_C7D0613F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moGirderLine" x="3904" y="224" name="inst_CA1F1C38" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moGirderLine" x="3904" y="192" name="inst_72733281" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moGirderLine" x="3904" y="160" name="inst_A70A3870" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moGirderLine" x="3904" y="128" name="inst_EDEDA70E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moGirderLine" x="3904" y="96" name="inst_D8DBECA3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moGirderLine" x="3904" y="64" name="inst_C5A035BB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGirderLine" x="3968" y="160" name="inst_C707F749" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGirderLine" x="3968" y="128" name="inst_D06DE969" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGirderLine" x="3968" y="96" name="inst_52ACD751" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGirderLine" x="3968" y="64" name="inst_09674F58" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moGirderGrabber" x="3904" y="416" name="inst_76B8744C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moGirderLine" x="3872" y="320" name="inst_1B96B357" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGrassFactoryWallBG" x="3456" y="96" name="inst_1C4E8725" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGrassFactoryWallBG" x="3456" y="128" name="inst_10E3A5C6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="joWarningSign" x="3456" y="96" name="inst_E0C8A621" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -1673,8 +1644,6 @@
     <instance objName="moGrassFactoryTruss" x="4320" y="288" name="inst_E43B1546" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGrassFactoryTruss" x="4352" y="288" name="inst_62A99413" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGrassFactoryTruss" x="4384" y="288" name="inst_2AB5DA2A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moGrassFactoryTruss" x="4384" y="256" name="inst_04ACDF36" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moGrassFactoryTruss" x="4352" y="256" name="inst_810DBC65" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGrassFactoryTruss" x="4320" y="256" name="inst_261831CE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGrassFactoryTruss" x="4288" y="256" name="inst_89E57721" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGrassFactoryTruss" x="4256" y="256" name="inst_1C9BEFD9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -1707,17 +1676,15 @@
     <instance objName="moGrassFactoryTruss" x="4384" y="64" name="inst_67046B6E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGrassFactoryTruss" x="4256" y="32" name="inst_B0B08CBB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGirderGrabber" x="4224" y="192" name="inst_42973418" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moGirderGrabber" x="4352" y="192" name="inst_339916F9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moGirderLine" x="4352" y="128" name="inst_3FD31BFF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGirderGrabber" x="4448" y="192" name="inst_339916F9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGirderLine" x="4448" y="128" name="inst_3FD31BFF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGirderLine" x="4224" y="32" name="inst_28C3C9FC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moGirderLine" x="4352" y="96" name="inst_00D3B828" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moGirderLine" x="4352" y="64" name="inst_EE3A7314" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGirderLine" x="4448" y="96" name="inst_00D3B828" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGirderLine" x="4448" y="64" name="inst_EE3A7314" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGirderLine" x="4224" y="64" name="inst_4D5B7219" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moGirderLineEnd" x="4352" y="160" name="inst_39459C0B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGirderLineEnd" x="4448" y="160" name="inst_39459C0B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGirderLineEnd" x="4032" y="480" name="inst_7D544D03" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGirderLineEnd" x="4160" y="480" name="inst_8A46BE2C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moGirderLineEnd" x="3872" y="384" name="inst_02A5FE76" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moGirderLineEnd" x="3904" y="384" name="inst_DE8847B0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGirderLineEnd" x="3936" y="192" name="inst_D17B1207" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGirderLineEnd" x="3968" y="192" name="inst_A2BB772D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="joWarningSign" x="4224" y="320" name="inst_1B8FFA1F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -1725,12 +1692,6 @@
     <instance objName="moGrassFactoryTruss" x="3936" y="0" name="inst_7486C57C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGrassFactoryTruss" x="3968" y="-32" name="inst_76F20D1C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="joGirderLineMove" x="4224" y="96" name="inst_75E9F5D1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moSeedPackager" x="3104" y="416" name="inst_CC2C63FA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moSeedPackager" x="3136" y="416" name="inst_40118F6A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moSeedPackager" x="3296" y="416" name="inst_9A93C6B8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moSeedPackager" x="3264" y="416" name="inst_73C12C6E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moSeedPackager" x="4320" y="352" name="inst_115B90AF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moSeedPackager" x="4352" y="352" name="inst_E3CA2EF4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGrassFactoryPlant" x="3968" y="160" name="inst_7739BD34" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGrassFactoryPlant" x="2848" y="416" name="inst_E864EED5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGrassFactoryWall3" x="4256" y="480" name="inst_9DFFFED2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -1738,23 +1699,13 @@
     <instance objName="moGrassFactoryWall4" x="3392" y="512" name="inst_6C2527D6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGrassFactoryWall2" x="2848" y="320" name="inst_998950B1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moSmallSpring" x="4160" y="480" name="inst_0EEF6CA7" locked="0" code="jp = -10&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moGrassFactoryFloor" x="4416" y="544" name="inst_E7500734" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moGrassFactoryFloor" x="4448" y="544" name="inst_32317630" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moGirderV" x="4480" y="544" name="inst_882EF914" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moGirderV" x="4480" y="512" name="inst_25CDA36F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moGirderV" x="4480" y="480" name="inst_19AEC1C1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moGirderV" x="4480" y="384" name="inst_6B9E3C1B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moGirderV" x="4480" y="352" name="inst_97B8F64B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="joGirderT" x="4480" y="192" name="inst_C7BAEFB6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGirderH" x="4416" y="192" name="inst_954CB743" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGirderH" x="4448" y="192" name="inst_B500949E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moGirderV" x="4480" y="320" name="inst_2974B175" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moFactoryTubeSide" x="4224" y="416" name="inst_CD4C1124" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moFactoryTubeSide" x="4256" y="416" name="inst_C5B32C63" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moFactoryTubeSide" x="4288" y="416" name="inst_220089A1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moFactoryTubeSide" x="4320" y="416" name="inst_A2BA5F2F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moFactoryTubeSide" x="4352" y="416" name="inst_5881C96B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moFactoryTube" x="4352" y="448" name="inst_0132DCC5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moFactoryTube" x="4352" y="480" name="inst_873D0D6E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moFactoryTube" x="4352" y="512" name="inst_F94AD507" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moFactoryTube" x="4352" y="544" name="inst_F7431DDE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -1774,15 +1725,339 @@
     <instance objName="moGrassFactoryWall" x="4416" y="288" name="inst_E4911186" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGrassFactoryWall" x="4448" y="288" name="inst_D120B17B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGrassFactoryWall" x="4448" y="256" name="inst_4C4326F1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moGrassFactoryWall" x="4416" y="256" name="inst_0C222EFB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGrassFactoryWall" x="4416" y="224" name="inst_19A94A95" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGrassFactoryWall" x="4448" y="224" name="inst_47C347B6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGirderV" x="4480" y="256" name="inst_A0E049F8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="moGirderV" x="4480" y="224" name="inst_7BD2682A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moGirderVb" x="4480" y="448" name="inst_F9BBB0C2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moGirderVb" x="4480" y="416" name="inst_AF9D7661" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="moPressureSpring" x="4416" y="512" name="inst_1A95FA5F" locked="0" code="jp -= 5&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="joPressureSpringFlipped" x="4416" y="320" name="inst_122A4D20" locked="0" code="jp += 5&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryTruss" x="3488" y="0" name="inst_EB30D068" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryTruss" x="3520" y="0" name="inst_55AAC3A8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryTruss" x="3520" y="32" name="inst_3498B644" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryTruss" x="3520" y="64" name="inst_C20063B1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryTruss" x="3520" y="96" name="inst_E7828B53" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryTruss" x="3552" y="64" name="inst_7A372469" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryTruss" x="3552" y="32" name="inst_522D9581" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryTruss" x="3552" y="0" name="inst_2F3C35D7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGirderGrabber" x="3968" y="224" name="inst_F6D1CA28" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moFactoryTubeSide" x="4352" y="416" name="inst_806676DA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moFactoryTube" x="4352" y="448" name="inst_E7B90E2D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4384" y="256" name="inst_941868B4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4352" y="256" name="inst_CF6FBE7D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="joGirderT" x="4512" y="416" name="inst_27CBBB25" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="-90"/>
+    <instance objName="moGirderH" x="4416" y="416" name="inst_AD9D5A1A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGirderH" x="4448" y="416" name="inst_68D474CD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGirderVb" x="4480" y="384" name="inst_E31FA137" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGirderVb" x="4480" y="352" name="inst_999AD91E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGirderVb" x="4480" y="320" name="inst_E81BC37D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryFloor" x="3872" y="416" name="inst_96C8356D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryFloor" x="3904" y="416" name="inst_1349155E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="3872" y="448" name="inst_86F19BBF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="3872" y="480" name="inst_C036A9BB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="3872" y="512" name="inst_6008A45B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="3872" y="544" name="inst_D337A09E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="3904" y="544" name="inst_13C99B20" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="3904" y="512" name="inst_DC2D59DB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="3904" y="480" name="inst_6CB8529A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="3904" y="448" name="inst_9CC9223C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryFloor" x="3968" y="416" name="inst_4F23A98D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGirderV" x="3968" y="352" name="inst_869976A6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryFloor" x="3936" y="416" name="inst_6FD333F8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="3968" y="448" name="inst_AFD33C50" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="3936" y="448" name="inst_C804A581" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="3936" y="512" name="inst_DF12A08F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="3936" y="544" name="inst_4BCAC736" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="3968" y="544" name="inst_2F2FA407" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="3968" y="512" name="inst_BE487A00" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="3968" y="480" name="inst_D7F67ADE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall2" x="3936" y="480" name="inst_51E2BF00" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall4" x="4416" y="256" name="inst_B57C2264" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moSmallSpring" x="3872" y="384" name="inst_151A3E91" locked="0" code="jp = -15&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGirderHb" x="1664" y="192" name="inst_49307909" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGirderHb" x="1856" y="192" name="inst_E1C20199" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4352" y="544" name="inst_4C84438C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4352" y="512" name="inst_DFFDA0C9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4352" y="480" name="inst_B8295BAE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4352" y="448" name="inst_1662C788" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4352" y="416" name="inst_B624672B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4320" y="416" name="inst_759913DD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4288" y="416" name="inst_E00F97A8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4256" y="416" name="inst_578A0D75" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4224" y="416" name="inst_BC97641B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4224" y="448" name="inst_6F0CB8C1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4224" y="480" name="inst_CFDD2455" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4224" y="512" name="inst_E88C994F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4224" y="544" name="inst_FB70A7A2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryTruss" x="4416" y="64" name="inst_C3A619E3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryTruss" x="4416" y="32" name="inst_0E2B671E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryTruss" x="4448" y="32" name="inst_387AC8E6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryTruss" x="4416" y="0" name="inst_5AA957CC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryTruss" x="4448" y="0" name="inst_C015DACD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryTruss" x="4480" y="0" name="inst_6C9B517F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryTruss" x="4480" y="32" name="inst_3F114F9D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryTruss" x="4512" y="0" name="inst_72C2DA88" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryFloor" x="4576" y="416" name="inst_FE8D8A45" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryFloor" x="4608" y="416" name="inst_C0EF50E8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryFloor" x="4640" y="416" name="inst_DF8C41C2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryFloor" x="4672" y="416" name="inst_9E009A31" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4704" y="448" name="inst_89A1B7D2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4704" y="480" name="inst_D323B335" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4704" y="512" name="inst_FA82C7F9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4704" y="544" name="inst_43B6F636" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4736" y="544" name="inst_62AD42DB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4736" y="480" name="inst_B5B5DBB8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4736" y="512" name="inst_337DD0F4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4736" y="448" name="inst_7B3D22E4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4736" y="416" name="inst_9E3D9BB0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4704" y="288" name="inst_276286C6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4736" y="288" name="inst_45A6738B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4736" y="256" name="inst_E478AAD2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4704" y="256" name="inst_58273C82" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4704" y="224" name="inst_76FD5419" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4736" y="224" name="inst_A6A13163" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4736" y="192" name="inst_4505C8D2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4704" y="192" name="inst_277C7037" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4704" y="160" name="inst_466DB523" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4736" y="160" name="inst_DAA2F6A2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4736" y="128" name="inst_89B28224" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4704" y="128" name="inst_14401179" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4704" y="96" name="inst_8760C464" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4736" y="96" name="inst_45D2E5BA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4736" y="64" name="inst_48601C46" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4704" y="64" name="inst_5333F1ED" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4704" y="32" name="inst_52B3A1B4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4704" y="0" name="inst_1B71248F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4736" y="0" name="inst_D46D8319" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4736" y="32" name="inst_2E2D07D4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4768" y="160" name="inst_622CDF5B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4800" y="160" name="inst_E69C7A04" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4832" y="160" name="inst_DBE8CB3D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4864" y="160" name="inst_6578A558" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4896" y="160" name="inst_A0B05E9A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4928" y="160" name="inst_36BEE23B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4960" y="160" name="inst_0D286FB6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4992" y="160" name="inst_36FB4859" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="5024" y="160" name="inst_C895D8B6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="5056" y="160" name="inst_B82A49C4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="5056" y="192" name="inst_3F615D6B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="5088" y="160" name="inst_33945830" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="5088" y="192" name="inst_F8FE8526" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="5056" y="224" name="inst_A9453324" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="5088" y="224" name="inst_3BE068C7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="5056" y="256" name="inst_167D6DD1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="5088" y="256" name="inst_01F2B070" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="5056" y="288" name="inst_5F2A0996" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="5056" y="320" name="inst_DE6880AF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="5056" y="352" name="inst_A1082FE8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="5056" y="384" name="inst_CA2F06C3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="5056" y="416" name="inst_55645D55" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="5056" y="448" name="inst_25AA89A1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="5056" y="480" name="inst_E707E2C9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="5056" y="512" name="inst_7D4AEFC2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="5056" y="544" name="inst_12B5AEF9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="5088" y="544" name="inst_2A3854CC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="5088" y="512" name="inst_1ADA9C1F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="5088" y="480" name="inst_A3DE9CDE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="5088" y="448" name="inst_A2A4B6F2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="5088" y="416" name="inst_846851B1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="5088" y="384" name="inst_5867EC33" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="5088" y="352" name="inst_A64B0CC2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="5088" y="320" name="inst_B1CFA410" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moFactoryPlatform" x="4768" y="416" name="inst_F33A5E22" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moFactoryPlatform" x="4800" y="416" name="inst_83C68BA0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moFactoryPlatform" x="4832" y="416" name="inst_36DA30CE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moFactoryPlatform" x="4864" y="416" name="inst_F86307DE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moFactoryPlatform" x="4896" y="416" name="inst_A86C9CC0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moFactoryPlatform" x="4928" y="416" name="inst_C517ADCE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moFactoryPlatform" x="4960" y="416" name="inst_B69FF937" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moFactoryPlatform" x="4992" y="416" name="inst_FD3A4CD2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moFactoryPlatform" x="5024" y="416" name="inst_886F5B5D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4704" y="384" name="inst_F0E21B42" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4736" y="384" name="inst_50F5AC74" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4736" y="352" name="inst_D657815B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4704" y="352" name="inst_DE2C0F20" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4704" y="320" name="inst_486209BA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4736" y="320" name="inst_D1574DB9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4768" y="416" name="inst_851F4FE4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4800" y="416" name="inst_992FDEE7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4832" y="416" name="inst_D7A90D54" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4864" y="416" name="inst_8A948509" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4896" y="416" name="inst_E8155F63" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4928" y="416" name="inst_CCEB213B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4960" y="416" name="inst_3546F142" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4992" y="416" name="inst_5F30BAA0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="5024" y="416" name="inst_ED686632" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4800" y="448" name="inst_CF4EBFF7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4768" y="448" name="inst_465507DF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4768" y="480" name="inst_507B3234" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4768" y="512" name="inst_E984251A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4768" y="544" name="inst_AD424378" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4800" y="544" name="inst_AF3C1510" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4800" y="512" name="inst_767953AE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4800" y="480" name="inst_9B2E1564" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4832" y="448" name="inst_900F40E4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4864" y="448" name="inst_DF8AD7C7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4896" y="448" name="inst_25DF1252" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4928" y="448" name="inst_388E1DCD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4960" y="448" name="inst_44FB3375" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4992" y="448" name="inst_9A0683C9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="5024" y="448" name="inst_5B241F32" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="5024" y="480" name="inst_6DBFFA0E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4992" y="480" name="inst_52F82026" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4992" y="512" name="inst_E6E3E076" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="5024" y="512" name="inst_896FE452" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="5024" y="544" name="inst_6C0FE95E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4992" y="544" name="inst_C871125E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4960" y="544" name="inst_38AA6462" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4928" y="544" name="inst_348D6786" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4896" y="544" name="inst_6121FD53" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4864" y="544" name="inst_6B5FCDC4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4832" y="544" name="inst_525B97E8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4832" y="512" name="inst_6F46FCD8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4832" y="480" name="inst_9BCF506E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4864" y="480" name="inst_D8FBC65B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4864" y="512" name="inst_90AED307" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4896" y="512" name="inst_F25E0FB2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4896" y="480" name="inst_B4CC1FD2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4928" y="480" name="inst_98929C16" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4928" y="512" name="inst_E4E0667F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4960" y="512" name="inst_1A155185" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4960" y="480" name="inst_A3EC78E6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4768" y="384" name="inst_CA560E6E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4768" y="352" name="inst_31600079" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4768" y="320" name="inst_D37FEBFA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4800" y="384" name="inst_CD37E263" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4832" y="384" name="inst_78D1D044" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4864" y="384" name="inst_244B66BD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4896" y="384" name="inst_2FD6CC3B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4928" y="384" name="inst_F6402E37" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4960" y="384" name="inst_C9A970A1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4992" y="384" name="inst_A5E8C447" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="5024" y="384" name="inst_331A3332" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4768" y="288" name="inst_DA4513D4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4768" y="256" name="inst_83D60AE7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4768" y="224" name="inst_B44912B3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4768" y="192" name="inst_0CF1FA59" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4800" y="192" name="inst_E48A5CC3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4832" y="192" name="inst_C0B0ACA4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4864" y="192" name="inst_2A5B9A66" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4896" y="192" name="inst_2962035E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4928" y="192" name="inst_70C7D616" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4960" y="192" name="inst_E198D722" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4992" y="192" name="inst_9D59E3B6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="5024" y="192" name="inst_FDB20743" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="5024" y="224" name="inst_D644E96B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="5024" y="256" name="inst_2A915D1C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="5024" y="288" name="inst_98ABA111" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="5024" y="320" name="inst_8D769E03" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="5024" y="352" name="inst_CE87FDF0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="5088" y="288" name="inst_E15A9EA5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4800" y="352" name="inst_5CDCD7D1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4800" y="224" name="inst_D3478E80" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4992" y="224" name="inst_5C57A4C8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4992" y="352" name="inst_25FD6CE0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4800" y="320" name="inst_46259445" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4800" y="288" name="inst_26C9818F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4800" y="256" name="inst_93A2323D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4832" y="224" name="inst_53F14FC6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4864" y="224" name="inst_12C6635F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4896" y="224" name="inst_BC13BACD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4928" y="224" name="inst_DAF1ADE1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4960" y="224" name="inst_12F8D6E7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4992" y="256" name="inst_DE52FA7C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4992" y="288" name="inst_82D3EB6E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4992" y="320" name="inst_2A5F1961" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4960" y="352" name="inst_CB6012B4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4928" y="352" name="inst_28E17646" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4896" y="352" name="inst_FF7BCE10" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4832" y="352" name="inst_0E9B24B2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4864" y="352" name="inst_3BF76C33" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4832" y="320" name="inst_B55E364E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4832" y="256" name="inst_48280698" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4960" y="256" name="inst_C0115696" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4960" y="320" name="inst_C2E6B7FA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4928" y="320" name="inst_C6B43E7D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4896" y="320" name="inst_3A994BEF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4864" y="320" name="inst_06AC8827" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4832" y="288" name="inst_7A1AA845" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4864" y="256" name="inst_E4CF1D62" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4928" y="256" name="inst_CA2E4BAA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4896" y="256" name="inst_B0943B1C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4960" y="288" name="inst_185173E0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4928" y="288" name="inst_4F22382E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4864" y="288" name="inst_23B8877A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWallBG" x="4896" y="288" name="inst_857A0F6B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4576" y="448" name="inst_FC884344" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4576" y="480" name="inst_F2416480" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4608" y="512" name="inst_6C0354AB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4608" y="544" name="inst_ACB8C25B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4640" y="544" name="inst_5191E6CE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4640" y="512" name="inst_F6A8A2C0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4640" y="480" name="inst_CEF20669" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4608" y="480" name="inst_D06E787E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4608" y="448" name="inst_2C75DA82" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4640" y="448" name="inst_89951276" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4672" y="448" name="inst_35192266" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4672" y="512" name="inst_EE0AD117" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4672" y="544" name="inst_326F500E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="5088" y="128" name="inst_12921057" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="5056" y="128" name="inst_75A365AF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4992" y="128" name="inst_B6A40E77" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4960" y="128" name="inst_2044B6E2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4928" y="128" name="inst_4C931EBB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4896" y="128" name="inst_EB36D9D6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4864" y="128" name="inst_5CD60FE0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4832" y="128" name="inst_F2038061" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4800" y="128" name="inst_F8144A01" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4768" y="128" name="inst_1B6568AB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4768" y="96" name="inst_10A7D59C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4800" y="96" name="inst_4480A011" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4832" y="96" name="inst_A3E778C5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4864" y="96" name="inst_C75DE05C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4896" y="96" name="inst_B1048F82" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4928" y="96" name="inst_99FBD98F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4960" y="96" name="inst_D82CD461" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4992" y="96" name="inst_3444A4D5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="5024" y="96" name="inst_385AB67B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="5056" y="96" name="inst_6DF03F3A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="5088" y="96" name="inst_16353607" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="5088" y="64" name="inst_07ABB97C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="5056" y="64" name="inst_F609BCAF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="5056" y="32" name="inst_9A390528" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="5088" y="32" name="inst_3507CF7B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="5088" y="0" name="inst_4481D806" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="5056" y="0" name="inst_B24B04F9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="5024" y="0" name="inst_6E194C24" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4992" y="0" name="inst_E56CD7BB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4960" y="0" name="inst_FD24A2CF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4928" y="0" name="inst_07BFCA02" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4896" y="0" name="inst_D024D00B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4864" y="0" name="inst_2C987C7C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4800" y="0" name="inst_3B66DBEA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4768" y="0" name="inst_4971353F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4768" y="32" name="inst_88324115" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4800" y="32" name="inst_6BBEE210" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4768" y="64" name="inst_DCC75F86" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4832" y="64" name="inst_7A8E6489" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4832" y="32" name="inst_AAA80631" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4832" y="0" name="inst_A5FC209B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4864" y="32" name="inst_46B0FD68" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4864" y="64" name="inst_393AEA5E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4896" y="64" name="inst_E7BB5BF5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4896" y="32" name="inst_EAEF7561" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4928" y="32" name="inst_4DCDFCB6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4928" y="64" name="inst_D4A2018E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4960" y="64" name="inst_61AB3E96" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4960" y="32" name="inst_CF3548AB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4992" y="32" name="inst_D003A773" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="4992" y="64" name="inst_C405740D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="5024" y="64" name="inst_46B1DB92" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall" x="5024" y="32" name="inst_6011134D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall2" x="4800" y="64" name="inst_835E584B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall3" x="5024" y="128" name="inst_74885967" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryWall4" x="4672" y="480" name="inst_1185F3F1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="moGrassFactoryFloorEnd1" x="4704" y="416" name="inst_A70B274D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="mo1_1TvTransition" x="4832" y="224" name="inst_1408C072" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="mo1_1CutsceneCameraTrig" x="4704" y="320" name="inst_D4A0F1B3" locked="0" code="" scaleX="1" scaleY="3" colour="4294967295" rotation="0"/>
+    <instance objName="mo1_1CutsceneTrigger" x="4896" y="320" name="inst_328CE542" locked="0" code="" scaleX="1" scaleY="3" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
