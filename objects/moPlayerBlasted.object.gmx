@@ -165,7 +165,7 @@ view_visible[2] = true
           </argument>
           <argument>
             <kind>0</kind>
-            <string>-500</string>
+            <string>0</string>
           </argument>
           <argument>
             <kind>0</kind>

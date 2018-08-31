@@ -41,24 +41,24 @@
     <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
   </backgrounds>
   <views>
-    <view visible="0" objName="" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
-    <view visible="0" objName="" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
-    <view visible="0" objName="" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
-    <view visible="0" objName="" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
-    <view visible="0" objName="" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
-    <view visible="0" objName="" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
-    <view visible="0" objName="" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
-    <view visible="0" objName="" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
   </views>
   <instances>
     <instance objName="joTitleScreen" x="514" y="291" name="inst_49A58979" locked="0" code="" scaleX="21.5750007629395" scaleY="18.03125" colour="4294967295" rotation="0"/>
     <instance objName="joPlay1" x="124" y="439" name="inst_403ED9DA" locked="0" code="" scaleX="2" scaleY="4" colour="4294967295" rotation="0"/>
     <instance objName="joQuit2" x="294" y="437" name="inst_64AC28FE" locked="0" code="" scaleX="2" scaleY="4" colour="4294967295" rotation="0"/>
     <instance objName="joCredits" x="294" y="-15" name="inst_9163C937" locked="0" code="" scaleX="7.5" scaleY="4" colour="4294967295" rotation="0"/>
-    <instance objName="joWindowed" x="772" y="505" name="inst_C7E3F472" locked="0" code="" scaleX="0.97000002861023" scaleY="1.21875" colour="4294967295" rotation="0"/>
-    <instance objName="joFullScreen" x="773" y="417" name="inst_6EB0A689" locked="0" code="" scaleX="0.97000002861023" scaleY="1.46875" colour="4294967295" rotation="0"/>
-    <instance objName="joVolUp" x="725" y="449" name="inst_449493C4" locked="0" code="" scaleX="0.72000002861023" scaleY="1.96875" colour="4294967295" rotation="0"/>
-    <instance objName="joVolDown" x="834" y="454" name="inst_0ADC02F7" locked="0" code="" scaleX="0.77999997138977" scaleY="1.90322577953339" colour="4294967295" rotation="0"/>
+    <instance objName="joWindowed" x="772" y="505" name="inst_C7E3F472" locked="0" code="" scaleX="0.970000028610229" scaleY="1.21875" colour="4294967295" rotation="0"/>
+    <instance objName="joFullScreen" x="773" y="417" name="inst_6EB0A689" locked="0" code="" scaleX="0.970000028610229" scaleY="1.46875" colour="4294967295" rotation="0"/>
+    <instance objName="joVolUp" x="725" y="449" name="inst_449493C4" locked="0" code="" scaleX="0.720000028610229" scaleY="1.96875" colour="4294967295" rotation="0"/>
+    <instance objName="joVolDown" x="834" y="454" name="inst_0ADC02F7" locked="0" code="" scaleX="0.779999971389771" scaleY="1.90322577953339" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

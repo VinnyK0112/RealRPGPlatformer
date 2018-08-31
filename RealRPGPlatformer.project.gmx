@@ -197,7 +197,6 @@
     <object>objects\joMusicGenerator</object>
     <object>objects\joWarningSign</object>
     <object>objects\joGirderGrabberFlipped</object>
-    <object>objects\joCameraZoomout</object>
     <object>objects\joTitleScreen</object>
     <object>objects\joPlay1</object>
     <object>objects\joQuit2</object>
@@ -212,24 +211,16 @@
     <object>objects\joNewGame</object>
     <object>objects\joCreditBack</object>
     <object>objects\joCreditText</object>
-    <object>objects\mo1_1TvTransition</object>
-    <object>objects\mo1_1CutsceneCameraTrig</object>
-    <object>objects\mo1_1CutsceneTrigger</object>
-    <object>objects\moCutsceneLookup1</object>
-    <object>objects\moCameraZoomIn</object>
-  </objects>
-  <rooms name="rooms">
-    <room>rooms\joTitle_01</room>
-    <room>rooms\joTitle_02</room>
-    <room>rooms\joTitle_03</room>
-    <room>rooms\jr2_1</room>
     <object>objects\joCameraTrigger</object>
     <object>objects\mo2_1Zoomout</object>
     <object>objects\mo2_1Sequencer</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\mr1_1</room>
     <room>rooms\jr2_1</room>
+    <room>rooms\mr1_1</room>
+    <room>rooms\joTitle_01</room>
+    <room>rooms\joTitle_02</room>
+    <room>rooms\joTitle_03</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

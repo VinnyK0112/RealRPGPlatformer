@@ -68,7 +68,7 @@
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>Bird_Chirp</sound>
+            <sound>-100</sound>
           </argument>
           <argument>
             <kind>3</kind>
@@ -126,7 +126,7 @@
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>Owl_Howl</sound>
+            <sound>-100</sound>
           </argument>
           <argument>
             <kind>3</kind>
@@ -164,7 +164,7 @@
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>Silence</sound>
+            <sound>-100</sound>
           </argument>
           <argument>
             <kind>3</kind>
