@@ -119,6 +119,7 @@
   <objects name="objects">
     <object>objects\voGround</object>
     <object>objects\moPlayer</object>
+    <object>objects\moPlayerWalljumpTest</object>
     <objects name="Cutscene Objects">
       <objects name="1">
         <object>objects\moCapsuleMetal</object>
@@ -216,8 +217,9 @@
     <object>objects\mo2_1Sequencer</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\jr2_1</room>
+    <room>rooms\mrWalljumpTest</room>
     <room>rooms\mr1_1</room>
+    <room>rooms\jr2_1</room>
     <room>rooms\joTitle_01</room>
     <room>rooms\joTitle_02</room>
     <room>rooms\joTitle_03</room>
