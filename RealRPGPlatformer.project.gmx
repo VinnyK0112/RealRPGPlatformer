@@ -218,8 +218,8 @@
     <object>objects\mo2_1Sequencer</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\mr1_1</room>
     <room>rooms\mrWalljumpTest</room>
+    <room>rooms\mr1_1</room>
     <room>rooms\jr2_1</room>
     <room>rooms\joTitle_01</room>
     <room>rooms\joTitle_02</room>
