@@ -86,7 +86,6 @@ if (jumpkey) &amp;&amp; (jumps &gt; 0)
 if place_meeting(x-1, y, voGround) &amp;&amp; !place_meeting(x, y+1, voGround) &amp;&amp; leftwall = false &amp;&amp; vspd &gt; 0 {
 vspd = 1.5
 movespeed = 0
-sprite_index = msPlayerWalljump
 if jumpkey {
 x+=1
 movespeed = 4
@@ -96,7 +95,6 @@ leftwall = true }}
 if place_meeting(x+1, y, voGround) &amp;&amp; !place_meeting(x, y+1, voGround) &amp;&amp; rightwall = false &amp;&amp; vspd &gt; 0 {
 vspd = 1.5
 movespeed = 0
-sprite_index = msPlayerWalljump
 if jumpkey {
 x-=1
 movespeed = 4
