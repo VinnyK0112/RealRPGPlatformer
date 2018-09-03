@@ -21,6 +21,7 @@
   <sprites name="sprites">
     <sprite>sprites\vsGround</sprite>
     <sprite>sprites\msPlayerIdle</sprite>
+    <sprite>sprites\msPlayerWalljump</sprite>
     <sprite>sprites\msPlayerMove</sprite>
     <sprite>sprites\msPlayerJump</sprite>
     <sprite>sprites\msPlayerFall</sprite>
